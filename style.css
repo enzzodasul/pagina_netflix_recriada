@@ -111,3 +111,13 @@ body {
   .row__posterLarge:hover {
     transform: scale(1.09);
   }
+
+  .row {
+    color: white;
+    margin-left: 20px;
+  }
+
+  .row__posters::-webkit-scrollbar {
+    display: none;
+  }
+  
