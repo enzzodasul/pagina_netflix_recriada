@@ -120,4 +120,7 @@ body {
   .row__posters::-webkit-scrollbar {
     display: none;
   }
-  
+
+  .nav__black {
+    background-color: #111;
+  }
